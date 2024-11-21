@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__/
+
+# Virtual environments
+.ipynb_checkpoints
+
+myenv
+
+# Environment variables file
+.env
+
+# VS Code settings
+.vscode/
+
+# Git Large File Storage (LFS) attributes file (optional if using Git LFS)
+.gitattributes

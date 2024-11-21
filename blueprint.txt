@@ -1,0 +1,16 @@
+User Interface (Streamlit) ---------→ Resume Upload (PDF/DOCX) 
+              |                                    |
+      Job Description URL                     Resume Parsing (pdfminer/python-docx)
+              |                                    |
+   Job Description Scraping &                 Structured Resume in JSON 
+        Processing (LangChain,                     |
+        WebBaseLoader, BeautifulSoup)              |
+              |                                    |
+   Structured Job Requirements               Skill Matching & Semantic Search using sentence_transformers
+              |                                    |
+    Skill Matching Results                Tailoring Resume (Llama 3.1, LangChain)
+              |                                    |
+      Tailored Resume with              Cold Email Generation (Optional)
+    Highlighted Skills and Sections                 |
+              |                                    |
+               Download Tailored Resume & Cold Email

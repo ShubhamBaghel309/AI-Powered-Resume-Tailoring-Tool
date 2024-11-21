@@ -1,0 +1,24 @@
+# Web scraping
+beautifulsoup4==4.12.0
+requests==2.28.2
+langchain==0.0.218  # Includes WebBaseLoader for scraping
+
+# Resume parsing (PDF/DOCX processing)
+pdfminer.six==20201018
+python-docx==0.8.11
+
+# Semantic Search and Embeddings
+sentence-transformers==2.2.2
+torch  # No version specified, install latest compatible version
+
+# Chroma DB for vector search
+chromadb==0.3.26
+
+# Llama integration via LangChain
+# (Ensure to have the necessary models available)
+
+# Streamlit for UI
+streamlit==1.26.0
+
+# Optional: Flask for backend if required
+Flask==2.2.2
