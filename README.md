@@ -14,10 +14,10 @@ This project utilizes advanced AI technologies, including Llama 3.1 accessed via
 
 ## **Features**  
 1. **Resume Parsing**  
-   - Extracts content from PDF and DOCX resumes using `pdfminer` and `python-docx`.  
+   - Extracts content from PDF and DOCX resumes using `pdfminer` .
 
 2. **Job Description Processing**  
-   - Scrapes and extracts structured job requirements using `LangChain`, WebBaseLoader, and BeautifulSoup.  
+   - Scrapes and extracts structured job requirements using `LangChain`, WebBaseLoader. 
 
 3. **Semantic Skill Matching**  
    - Matches resume content with job requirements using `sentence-transformers` and `cosine similarity` for context-aware matching.  
@@ -72,9 +72,8 @@ This project utilizes advanced AI technologies, including Llama 3.1 accessed via
 ## **Setup and Installation**  
 
 1. **Clone the Repository**  
-   ```bash  
-   git clone https://github.com/your-username/ai-resume-tailoring-tool.git  
-   cd ai-resume-tailoring-tool  
+   ```bash
+   git clone https://github.com/ShubhamBaghel309/AI-Powered-Resume-Tailoring-Tool.git  
    ```  
 
 2. **Install Dependencies**  
@@ -105,8 +104,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## **Contact**  
 For questions or suggestions, feel free to reach out:  
-- **Email:** [your-email@example.com](mailto:your-email@example.com)  
-- **GitHub:** [your-username](https://github.com/your-username)  
+- **Email:** shubhambaghel307@gmail.com
 
 ---  
 
